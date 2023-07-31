@@ -184,7 +184,7 @@
 	 <distributionManagement>
         <repository>
             <id>vprofile-release</id>
-            <name>VProfile Release Repository</name>
+            <name>VProfile-Release</name>
             <url>http://54.176.185.43:8081//repository/vprofile-release/</url>
         </repository>
     </distributionManagement>
